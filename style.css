@@ -196,9 +196,6 @@ section {
 #text {
   width: 350px;
   position: relative;
-
-  /*left: 630px;
-  top: 270px;*/
 }
 #text h1 {
   color: var(--Very-Dark-Desaturated-Violet);
