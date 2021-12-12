@@ -216,6 +216,7 @@ section {
   font-size: 11px;
   text-align: center;
   font-weight: 900;
+  position:relative;
 }
 .attribution a {
   color: hsl(265, 5%, 48%);
